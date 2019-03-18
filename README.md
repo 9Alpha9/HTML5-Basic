@@ -1,4 +1,8 @@
 # HTML5-Basic
+untuk memanggil code html5,css,java banyak software yang digunakan antara lain `[#Atom]`, `#Bracket`, `#Notepad++`, `#Microsoft Visual Studio Code`. dari **masing-masing** software tersebut memiliki keunggulan masing-masing.
+
+**My Note :** 
+
 ```
 <!DOCTYPE html>
   <html>
@@ -18,3 +22,5 @@
 ```
 <link rel="stylesheet" type="text/css" href="link your css name">
 ```
+**BOOTSTRAP**
+Version V4.3 [Bootstrap](https://getbootstrap.com/)
