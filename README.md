@@ -30,4 +30,4 @@ HTML ATRIBUT
   * ``<br>``
     * ``<p>``
 
-> garis lurus yang digunakan apabila dalam pemberian batas antara content / isi.
+> ``<hr> garis lurus yang digunakan apabila dalam pemberian batas antara content / isi.``
