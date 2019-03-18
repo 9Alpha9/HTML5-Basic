@@ -25,9 +25,17 @@ untuk memanggil code html5,css,java banyak software yang digunakan antara lain `
 **BOOTSTRAP**
 Version V4.3 [Bootstrap](https://getbootstrap.com/)
 
-HTML ATRIBUT
+**HTML ATRIBUT**
 * ``<hr>`` 
   * ``<br>``
     * ``<p>``
 
 > ``<hr> garis lurus yang digunakan apabila dalam pemberian batas antara content / isi.``
+> ``<br> digunakan apabila ingin melakukan baris baru.``
+> ``<p> paragraph/paragraf digunakan apabila ingin melakukan penggantian paragraf baru.``
+  
+**Text**
+* ``<h1>``
+  * ``<h2>``
+    * ``<h3>``
+      * ``<h4>``
