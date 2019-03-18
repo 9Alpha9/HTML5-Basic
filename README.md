@@ -16,8 +16,7 @@ hello, this is my version for code HTML5.
 </html>
 ```
 
-
-```
 > Basic Code for css call :
+```
 <link rel="stylesheet" type="text/css" href="link your css name">
 ```
