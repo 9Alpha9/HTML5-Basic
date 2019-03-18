@@ -27,6 +27,6 @@ Version V4.3 [Bootstrap](https://getbootstrap.com/)
 
 HTML ATRIBUT
 * ``<hr>`` 
-* ``<br>``
-* ``<p>``
+  * ``<br>``
+    * ``<p>``
 garis lurus yang digunakan apabila dalam pemberian batas antara content / isi.
