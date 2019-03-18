@@ -25,5 +25,8 @@ untuk memanggil code html5,css,java banyak software yang digunakan antara lain `
 **BOOTSTRAP**
 Version V4.3 [Bootstrap](https://getbootstrap.com/)
 
-**HTML ATRIBUT**
-``<hr>`` garis lurus yang digunakan apabila dalam pemberian batas antara content / isi.
+HTML ATRIBUT
+* ``<hr>`` 
+* ``<br>``
+* ``<p>``
+garis lurus yang digunakan apabila dalam pemberian batas antara content / isi.
