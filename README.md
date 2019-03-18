@@ -1,6 +1,4 @@
 # HTML5-Basic
-hello, this is my version for code HTML5.
-
 ```
 <!DOCTYPE html>
   <html>
