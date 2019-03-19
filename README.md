@@ -59,8 +59,7 @@ body{
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" media="screen" href="main.css">
     <script src="main.js"></script>
-    <link rel="stylesheet" href="pert4.css">
-
+<!--CSS STYLE-->
     <style>
     .div1{
         padding-top: 100%; 
@@ -104,6 +103,7 @@ body{
         text-align: center;
     }
     </style>
+    <!--End Css-->
 </head>
 <body>
     <div class="div1">
