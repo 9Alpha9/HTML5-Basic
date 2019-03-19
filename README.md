@@ -39,3 +39,9 @@ Version V4.3 [Bootstrap](https://getbootstrap.com/)
   * ``<h2>``
     * ``<h3>``
       * ``<h4>``
+
+**Background Gradient CSS**
+body{
+            background: rgb(121,9,82);
+            background: linear-gradient(90deg, rgba(121,9,82,1) 0%, rgba(255,0,84,1) 100%);
+        }
