@@ -48,7 +48,7 @@ body{
 }
 ```
 
-**DIV CLASS BOX**
+# DIV CLASS BOX
 ```
 <!DOCTYPE html>
 <html>
@@ -121,4 +121,3 @@ body{
 </body>
 </html>
 ```
-
