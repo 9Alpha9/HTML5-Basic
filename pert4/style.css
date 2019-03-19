@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower|Josefin+Sans|Lilita+One');
+
+body {
+    padding-top: 0;
+    padding-bottom: 0; 
+}
+.jumbotron {
+    padding-bottom: 12%;
+}
+
+.card-body {
+    padding-left: 10%;
+    padding-right: 30%;
+    font-family: Indie Flower;
+}
+
+.card-link {
+    text-decoration: none;
+    font-size: 15px;
+}
